@@ -1,4 +1,4 @@
-//Latihan menampilkan output
+//Latihan menampilkan output dan menyimpan variable
 console.log('Namaku Faiz');
 document.write('Ini adalah latihan pertama : output dan variable');
 document.write('<hr>');
