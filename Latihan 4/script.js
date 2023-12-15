@@ -1,0 +1,22 @@
+//Latihan array
+const list_Mahasiswa=["Faiz", "Ravi", "Zufar", "Bagas", "Davin"];
+document.writeln(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.push("Ghaza");
+document.write(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.pop();
+document.write(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.shift();
+document.write(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.unshift("Abyan");
+document.write(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.sort();
+document.write(list_Mahasiswa);
+document.write("<br>");
+list_Mahasiswa.reverse();
+document.write(list_Mahasiswa);
+document.write("<br>");
