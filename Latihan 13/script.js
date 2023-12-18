@@ -1,4 +1,4 @@
-//Latihan form
+//Latihan form sederhana
 function fungsiNilai(){
     let x = document.getElementById("nilai").value;
     let y =document.getElementById("pesan");
